@@ -7,3 +7,6 @@ The notebook takes in an Excel spreadsheet at input. The spreadsheets are curren
 * 2020: https://osf.io/qsa4x/
 * 2021: https://osf.io/76ufq/
 
+To run this analysis in your browser, click the Binder button below.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mathieuboudreau/mrm_analysis/HEAD?labpath=analysis.ipynb)
